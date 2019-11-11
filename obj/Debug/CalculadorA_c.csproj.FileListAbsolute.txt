@@ -1,0 +1,10 @@
+C:\Users\Mateus\source\repos\CalculadorA_c\bin\Debug\CalculadorA_c.exe.config
+C:\Users\Mateus\source\repos\CalculadorA_c\bin\Debug\CalculadorA_c.exe
+C:\Users\Mateus\source\repos\CalculadorA_c\bin\Debug\CalculadorA_c.pdb
+C:\Users\Mateus\source\repos\CalculadorA_c\obj\Debug\CalculadorA_c.csprojAssemblyReference.cache
+C:\Users\Mateus\source\repos\CalculadorA_c\obj\Debug\CalculadorA_c.Form1.resources
+C:\Users\Mateus\source\repos\CalculadorA_c\obj\Debug\CalculadorA_c.Properties.Resources.resources
+C:\Users\Mateus\source\repos\CalculadorA_c\obj\Debug\CalculadorA_c.csproj.GenerateResource.cache
+C:\Users\Mateus\source\repos\CalculadorA_c\obj\Debug\CalculadorA_c.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\CalculadorA_c\obj\Debug\CalculadorA_c.exe
+C:\Users\Mateus\source\repos\CalculadorA_c\obj\Debug\CalculadorA_c.pdb
